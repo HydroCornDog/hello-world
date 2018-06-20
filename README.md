@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hey, 
+
+Just trying to advance my skill set for this industry!
